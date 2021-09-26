@@ -4,7 +4,7 @@ I am a frontend developer from South Korea.
 
 - 📝 I regularly write articles on [sizplay.dev](https://sizplay.dev)
 
-- 👨‍💻 All of my projects are available at [https://sizplay.github.io/myPortfolio](https://sizplay.github.io/myPortfolio)
+- 👨‍💻 All of my projects are available at [myPortfolio](https://sizplay.github.io/myPortfolio)
 
 - 📫 How to reach me **sizplay@gmail.com**
 
